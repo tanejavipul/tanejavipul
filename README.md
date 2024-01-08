@@ -15,8 +15,8 @@ I am **Vipul Taneja**, an enthusiastic software engineer. I graduated from the U
 Here are some of the recent projects I have worked on:
 
 - **[RESTify](https://github.com/tanejavipul/RESTify)**: Social hub for restaurants. Users search, follow, like, and comment. Owners showcase with blog posts and menus, creating dynamic connections.
-- [HTTP Server](https://github.com/tanejavipul/HTTP-Server): An HTTP server capable of handling HTTP/1.0 or HTTP/1.1 requests and processing 10,000 requests in under 0.8 seconds.
-- [Brain Tumor Detector](https://github.com/tanejavipul/Brain-Tumor-Detector): A 4-layer Convolutional Neural Network with 2 fully connected layers to detect the presence of a tumor in an X-Ray.
+- **[HTTP Server](https://github.com/tanejavipul/HTTP-Server)**: An HTTP server capable of handling HTTP/1.0 or HTTP/1.1 requests and processing 10,000 requests in under 0.8 seconds.
+- **[Brain Tumor Detector](https://github.com/tanejavipul/Brain-Tumor-Detector)**: A 4-layer Convolutional Neural Network with 2 fully connected layers to detect the presence of a tumor in an X-Ray.
 
 ### Current Endeavors:
 
