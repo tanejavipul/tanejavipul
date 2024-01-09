@@ -2,8 +2,7 @@
 
 I am **Vipul Taneja**, an enthusiastic software engineer. I graduated from the University of Toronto with a specialist in Computer Science, where I refined my skills in algorithm design, data structures, and software development.
 
-👨‍💻 Previously, I worked at [Faire](https://www.faire.com/), where I worked as a software engineer. At Faire, I had the opportunity to collaborate on cutting-edge projects, contributing to the development of innovative solutions.
-
+👨‍💻 Previously, I worked at [Faire](https://www.faire.com/) as a software engineer. I collaborated on cutting-edge projects, contributing to the development of innovative solutions driving Faire's pricing strategies and market event execution.
 ### What I Bring to the Table:
 
 - 🛠 Experience in **Python, Java, Kotlin, React, React Native, Django, SQL, NoSQL, RESTful API** and many more technologies.
